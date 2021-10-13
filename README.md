@@ -1,0 +1,1 @@
+# Typescript-with-React-classes---quick-start---Jest-testing
